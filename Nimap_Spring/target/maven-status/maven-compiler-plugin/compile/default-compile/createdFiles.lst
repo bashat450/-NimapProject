@@ -1,0 +1,4 @@
+com\project\controller\MyController.class
+com\project\Entity\Product.class
+com\project\Nimap_SpringApplication.class
+com\project\Entity\Category.class
